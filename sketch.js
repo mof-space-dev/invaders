@@ -16,7 +16,7 @@ const GREEN = [100, 220, 60];
 const DIM   = [60, 130, 30];
 
 const BIOS_TEXT = [
-  'RETRO-BIOS v2.1  (C) 1983 MegaSoft Corp.',
+  'RETRO-BIOS v2.1  (C) 1983??? MofSoft Corp.',
   '',
   'CPU: MegaZ80  4.77 MHz',
   'FPU: None',
